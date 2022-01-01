@@ -1,0 +1,16 @@
+.dahboard {
+  background-color: rgb(193, 225, 248);
+  border-radius: 10px;
+  height: 40vh;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+img {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 10px;
+}
+
+.profile-pic {
+  margin-top: 20px;
+}
